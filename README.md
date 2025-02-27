@@ -7,7 +7,9 @@
 + Retrieve and download data from the Spotify API.
 + Create a Python Pandas dataframe for easier manipulation of the data.
 + Save the data to an SQL database.
- 
+  
+<how-to-start>
+
 ## 🌱 How to start this project
 
 Follow the instructions below:
@@ -15,6 +17,8 @@ Follow the instructions below:
 1. Create a new repository by forking the [Git project](https://github.com/4GeeksAcademy/interacting-with-api-python-project-tutorial) or [by clicking here](https://github.com/4GeeksAcademy/interacting-with-api-python-project-tutorial/fork).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
+
+</how-to-start>
 
 ## 🚛 How to deliver this project
 
